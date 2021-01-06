@@ -3,4 +3,4 @@ It is the  implementation of the interpretable LSTM for classification. The code
 
 The interpretable LSTM is referred in "Exploring Interpretable LSTM Neural Networks over Multi-Variable Data" https://arxiv.org/pdf/1905.12034.pdf
 
-The dataset is OULAD and the extracted data has been used directly
+The dataset is OULAD and the extracted data has been used directly. Please refer https://github.com/licheng0794/OULAD_prediction.git
